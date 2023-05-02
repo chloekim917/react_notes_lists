@@ -1,1 +1,1 @@
-# react_notes_lists
+Two separate examples on how to iterate through array to create list in React
